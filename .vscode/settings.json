@@ -2,5 +2,7 @@
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#F54133",
     "titleBar.inactiveBackground": "#F54133"
-  }
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single"
 }
